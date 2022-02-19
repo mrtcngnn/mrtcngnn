@@ -1,4 +1,8 @@
-# Hi, this is Mert <img src="https://c.tenor.com/qoXFOGQ-X-cAAAAC/megajoshy-rgb-logo.gif" width="50"/>
+# Hi, this is Mert <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="50"/>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/db/70/91/db7091072edc57ac1ee9ac90a53a1744.gif" width="500"/>
+</p>
 
 ### I'm 4-th year Computer Engineering student at TOBB ETU. Currently, I'm also doing internship as Junior Web Developer at HAVELSAN.
 
