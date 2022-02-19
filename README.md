@@ -1,4 +1,4 @@
 ### Hi there, I'm Mert Can Gönen!
 
-### I'am 4-th year Computer Engineering student at TOBB ETU <img alt="tobb-etu-logo" width="22px" src="https://www.etu.edu.tr/views/etu/assets/img/tobb_etu_logo.png">. In this term, I'm doing internship at HAVELSAN <img alt="havelsan-logo" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Havelsan_logo.svg"> .
+### I'am 4-th year Computer Engineering student at TOBB ETU <img alt="tobb-etu-logo" width="22px" src="https://www.etu.edu.tr/views/etu/assets/img/tobb_etu_logo.png">. In this term, I'm doing internship at HAVELSAN <img alt="havelsan-logo" width="22px" src="https://www.telemar.com.tr/wp-content/uploads/2021/02/havelsan.jpg"> .
 
