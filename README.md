@@ -1,4 +1,4 @@
-# Hi, this is Mert <img src="https://i.pinimg.com/originals/db/70/91/db7091072edc57ac1ee9ac90a53a1744.gif" width="50"/>
+# Hi, this is Mert <img src="https://c.tenor.com/qoXFOGQ-X-cAAAAC/megajoshy-rgb-logo.gif" width="50"/>
 
 ### I'm 4-th year Computer Engineering student at TOBB ETU. Currently, I'm also doing internship as Junior Web Developer at HAVELSAN.
 
