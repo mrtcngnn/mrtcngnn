@@ -16,7 +16,7 @@
 
 ### Experiences
 ### Junior Web Developer at KOÇSİSTEM
-<img alt="kocsistem-logo" width="200" height="50" src="https://upload.wikimedia.org/wikipedia/tr/archive/2/28/20200704155435%21KocSistem_logo.png">
+<img alt="kocsistem-logo" width="210" height="70" src="https://upload.wikimedia.org/wikipedia/tr/archive/2/28/20200704155435%21KocSistem_logo.png">
 
 ### Junior Web Developer at HAVELSAN
 <img alt="havelsan-logo" width="210" height="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Havelsan_logo.svg/450px-Havelsan_logo.svg.png">
