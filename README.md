@@ -4,5 +4,5 @@
 
 ### EXPERIENCES
 
-### Junior Web Developer at KOÇSİSTEM <img src="https://upload.wikimedia.org/wikipedia/tr/archive/2/28/20200704155435%21KocSistem_logo.png" width="100px" height="50x">
+### Junior Web Developer at KOÇSİSTEM <img src="https://upload.wikimedia.org/wikipedia/tr/archive/2/28/20200704155435%21KocSistem_logo.png" width="300px" height="50px"> 
 
