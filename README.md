@@ -1,5 +1,7 @@
-### Hi there, I'm [Mert Can Gönen][website]
+### Hi there, I'm Mert Can Gönen!
 
-### I'am 4-th year Computer Engineering student at TOBB ETU. In this term, I'm doing internship at [HAVELSAN].
+### I'am 4-th year Computer Engineering student at [https://www.etu.edu.tr/views/etu/assets/img/_logolar/_white/tobb_etu__logo_white_tr.png?v=2.7.8][TOBB ETÜ][tobbetu]. In this term, I'm doing internship at [HAVELSAN][havelsan].
 
-[website]: https://twitter.com
+
+[tobbetu]: https://www.etu.edu.tr/tr
+[havelsan]: https://www.havelsan.com.tr/
