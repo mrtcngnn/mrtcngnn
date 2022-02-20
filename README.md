@@ -14,7 +14,7 @@
 </p>
 
 
-### Experiences 🎓:
+### EXPERIENCES 🎓:
 
 ### Junior Web Developer at KOÇSİSTEM
 
