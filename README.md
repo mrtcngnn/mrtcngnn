@@ -4,6 +4,10 @@
   Junior Web Developer <img width="30" src="https://c.tenor.com/YecgCBvBkKEAAAAi/cool-yeah-cute.gif"/>
 </h3>
 
+<div align="center">
+  <img src="https://seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" alt="web-developer-gif" target="_blank"></img>
+ </div>
+
 ### I'm 4-th year Computer Engineering student at TOBB ETU. Currently, I'm also doing internship as Junior Web Developer at HAVELSAN.
 
 ### Languages and Technologies 💻:
