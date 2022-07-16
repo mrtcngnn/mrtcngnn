@@ -34,5 +34,5 @@
 
 ### You can contact me on : 
 <a href="https://twitter.com/mrtcngnn" target="_blank">
-<img alt="kocsistem-logo" width="30" height="30" src="[https://upload.wikimedia.org/wikipedia/tr/archive/2/28/20200704155435%21KocSistem_logo.png](https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg)"> mrtcngnn</a>
+<img alt="twitter-logo" width="30" height="30" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg"> mrtcngnn</a>
 
