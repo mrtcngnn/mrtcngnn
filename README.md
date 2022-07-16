@@ -33,6 +33,4 @@
 
 
 ### You can contact me on : 
-<a href="https://twitter.com/mrtcngnn" target="_blank">
-<img alt="twitter-logo" width="30" height="30" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg"> <p style="text-decoration=none">mrtcngnn</p></a>
 
