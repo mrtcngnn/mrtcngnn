@@ -31,3 +31,8 @@
 <img alt="havelsan-logo" width="210" height="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Havelsan_logo.svg/450px-Havelsan_logo.svg.png">
 </a>
 
+
+### You can contact me on : 
+<a href="https://twitter.com/mrtcngnn" target="_blank">
+<img alt="kocsistem-logo" width="30" height="30" src="[https://upload.wikimedia.org/wikipedia/tr/archive/2/28/20200704155435%21KocSistem_logo.png](https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg)"> mrtcngnn</a>
+
