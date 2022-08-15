@@ -1,7 +1,7 @@
-# Hi, this is Mert <img src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="50"/>
+# Hi, this is Mert <img src="https://tenor.com/bfX28.gif" width="50"/>
 
 <h3 align="center">
-  Junior Web Developer <img width="30" src="https://c.tenor.com/YecgCBvBkKEAAAAi/cool-yeah-cute.gif"/>
+  Junior Web Developer
 </h3>
 
 <div align="center">
