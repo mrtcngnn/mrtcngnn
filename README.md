@@ -1,4 +1,4 @@
-# Hi, this is Mert <img src="https://c.tenor.com/O4O3dw4WD-wAAAAC/cars-lightning-mcqueen.gif" width="50"/>
+# Hi, this is Mert ![](https://c.tenor.com/O4O3dw4WD-wAAAAC/cars-lightning-mcqueen.gif)
 
 <h3 align="center">
   Junior Web Developer
