@@ -1,4 +1,4 @@
-# Hi, this is Mert <img src="[https://tenor.com/bfX28.gif](https://tenor.com/view/cars-lightning-mcqueen-drinking-drink-thirsty-gif-16159740)" width="50"/>
+# Hi, this is Mert <img src="https://tenor.com/bfX28.gif](https://tenor.com/view/cars-lightning-mcqueen-drinking-drink-thirsty-gif-16159740)](https://c.tenor.com/O4O3dw4WD-wAAAAC/cars-lightning-mcqueen.gif" width="50"/>
 
 <h3 align="center">
   Junior Web Developer
