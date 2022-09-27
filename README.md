@@ -31,7 +31,7 @@
 <img alt="kocsistem-logo" width="240" height="70" src="https://upload.wikimedia.org/wikipedia/tr/archive/2/28/20200704155435%21KocSistem_logo.png">
 </a>
 
-### Junior Web Developer at HAVELSAN (January 2022 - May 2022)
+### Junior Web Developer at HAVELSAN (January 2022 - May 2022 & September 2022 - January 2023)
 <a href="https://www.havelsan.com.tr/" target="_blank">
 <img alt="havelsan-logo" width="210" height="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Havelsan_logo.svg/450px-Havelsan_logo.svg.png">
 </a>
