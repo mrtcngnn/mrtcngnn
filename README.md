@@ -40,4 +40,6 @@
 ### You can contact me on : 
 <img alt="twitter-logo" src="https://www.svgrepo.com/show/22159/twitter.svg" width="20" height="20">  Twitter: [@mrtcngnn](https://twitter.com/mrtcngnn)<br/>
 <img alt="gmail-logo" src="https://www.svgrepo.com/show/243092/gmail.svg" width="20" height="20">  G-Mail: [mrtcngonen@gmail.com](mailto:mrtcngonen@gmail.com)<br/>
-LinkedIn: [Mert Can Gönen](https://www.linkedin.com/in/mertcangonen)
+<img alt="linkedin-logo" src="https://www.svgrepo.com/show/157006/linkedin.svg" width="20" height="20">  LinkedIn: [Mert Can Gönen](https://www.linkedin.com/in/mertcangonen)
+
+
