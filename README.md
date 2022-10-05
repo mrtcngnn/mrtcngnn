@@ -38,6 +38,6 @@
 
 
 ### You can contact me on : 
-Twitter: [@mrtcngnn](https://twitter.com/mrtcngnn)
-Email: [mrtcngonen@gmail.com](mailto:mrtcngonen@gmail.com)
+Twitter <img alt="twitter-logo" src="https://www.svgrepo.com/show/22159/twitter.svg">: [@mrtcngnn](https://twitter.com/mrtcngnn)<br/>
+Email: [mrtcngonen@gmail.com](mailto:mrtcngonen@gmail.com)<br/>
 LinkedIn: [Mert Can Gönen](https://www.linkedin.com/in/mertcangonen)
