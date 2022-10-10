@@ -1,7 +1,7 @@
 # Hi, this is Mert
 
 <h3 align="center">
-  Junior Web Developer
+  Web Developer
 </h3>
 
 <div align="center">
