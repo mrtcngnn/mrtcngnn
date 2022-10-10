@@ -28,7 +28,7 @@
 
 ### Junior Web Developer at KOÇSİSTEM (May 2021 - August 2021)
 <a href="https://www.kocsistem.com.tr/" target="_blank">
-<img alt="kocsistem-logo" width="240" height="70" src="[https://upload.wikimedia.org/wikipedia/tr/archive/2/28/20200704155435%21KocSistem_logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJ9ucUq6BCb2GJX_dzyltY8vUbaHJ65oCV9OGEsBLDU5sckagpIBoHh_8M1-W8-PkIiQ&usqp=CAU)">
+<img alt="kocsistem-logo" width="240" height="70" src="https://upload.wikimedia.org/wikipedia/tr/archive/2/28/20200704155435%21KocSistem_logo.png">
 </a>
 
 ### Junior Web Developer at HAVELSAN (January 2022 - May 2022 & September 2022 - January 2023)
