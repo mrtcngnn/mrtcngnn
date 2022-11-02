@@ -4,10 +4,6 @@
   WEB DEVELOPER
 </h3>
 
-<div align="center">
-  <img src="https://c.tenor.com/O4O3dw4WD-wAAAAC/cars-lightning-mcqueen.gif"/> 
- </div>
-
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MertCanGonen&theme=tokyonight)
 
 ### I'm 4-th year Computer Engineering student at TOBB ETU. Currently, I'm also doing internship as Junior Web Developer at HAVELSAN.
