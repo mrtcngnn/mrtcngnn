@@ -1,7 +1,7 @@
-# Hi, this is Mert
+# Hi, this is Mert!!!
 
 <h3 align="center">
-  Web Developer
+  WEB DEVELOPER
 </h3>
 
 <div align="center">
