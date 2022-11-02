@@ -9,6 +9,10 @@
  </div>
 
 <div align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MertCanGonen&theme=dark)
+ </div>
+
+<div align="center">
   <img src="https://seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" alt="web-developer-gif" target="_blank" width="500" height="300"></img>
  </div>
 
