@@ -9,7 +9,7 @@
  </div>
 
 <div align="center">
-  ! [GitHub Stats] (https://github-readme-stats.vercel.app/api?username=MertCanGonen&theme=dark)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MertCanGonen&theme=radical)
  </div>
 
 <div align="center">
