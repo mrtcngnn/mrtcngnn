@@ -4,10 +4,10 @@
   WEB DEVELOPER
 </h3>
 
-<a href="https://github.com/MertCanGonen">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MertCanGonen&theme=tokyonight&layout=compact)
+  
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MertCanGonen&theme=tokyonight&layout=compact)
-</a>
+  
 ### I'm 4-th year Computer Engineering student at TOBB ETU. Currently, I'm also doing internship as Junior Web Developer at HAVELSAN.
 
 ### Languages and Technologies 💻:
