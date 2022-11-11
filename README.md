@@ -1,11 +1,6 @@
 # Hi, this is Mert!!!
 
-<h3 align="center">
-  WEB DEVELOPER
-</h3>
-
-
-<a href="https://github.com/MertCanGonen">
+<a href="https://github.com/MertCanGonen" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MertCanGonen&theme=tokyonight&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertCanGonen&theme=tokyonight&layout=compact" />
 </a>
