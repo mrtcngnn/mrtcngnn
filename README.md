@@ -1,4 +1,3 @@
-# <p><p id="Mert">Junior Web Developer</p></p>
 # <Mert - Junior Web Developer/>
 
 <a href="https://github.com/MertCanGonen" align="center">
