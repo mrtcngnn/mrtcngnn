@@ -4,7 +4,7 @@
   WEB DEVELOPER
 </h3>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MertCanGonen&theme=tokyonight)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MertCanGonen&theme=tokyonight&layout=compact)
 
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MertCanGonen&theme=tokyonight&layout=compact)
 
