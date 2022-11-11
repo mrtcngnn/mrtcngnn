@@ -7,7 +7,7 @@
 
 <a href="https://github.com/MertCanGonen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MertCanGonen&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?MertCanGonen&theme=tokyonight&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertCanGonen&theme=tokyonight&layout=compact" />
 </a>
   
 ### I'm 4-th year Computer Engineering student at TOBB ETU. Currently, I'm also doing internship as Junior Web Developer at HAVELSAN.
