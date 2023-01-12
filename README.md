@@ -1,7 +1,6 @@
 # <Mert - Web Developer/>
 
-<a href="https://github.com/MertCanGonen" align="center">
-  https://github-readme-stats.vercel.app/api?username=mrtcngnn
+<a href="https://github.com/mrtcngnn" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtcngnn&theme=tokyonight&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtcngnn&theme=tokyonight&layout=compact"/>
 </a>
