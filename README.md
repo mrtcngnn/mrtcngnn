@@ -1,6 +1,9 @@
 # <Mert - Web Developer/>
 
 <a href="https://github.com/mrtcngnn" align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtcngnn&hide=contribs,prs)
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtcngnn&theme=tokyonight&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtcngnn&theme=tokyonight&layout=compact"/>
 </a>
