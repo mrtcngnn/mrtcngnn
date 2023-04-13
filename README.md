@@ -1,7 +1,8 @@
 # <Mert - Full Stack Web Developer/>
 
 <a href="https://github.com/mrtcngnn" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtcngnn&theme=radical&show_icons=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtcngnn&theme=radical&show_icons=true"/>
+  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtcngnn&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
 </a>
   
 ### 4-th year Computer Science student at TOBB ETU / Candidate Full Stack Web Developer at HAVELSAN
