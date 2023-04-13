@@ -1,8 +1,8 @@
 # <Mert - Full Stack Web Developer/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtcngnn&theme=radical&show_icons=true"/> 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtcngnn&theme=radical&layout=compact)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtcngnn&theme=radical&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtcngnn&theme=radical&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtcngnn&theme=radical&layout=compact)"/>
 </div>
 
 
