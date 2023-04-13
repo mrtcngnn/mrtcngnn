@@ -31,7 +31,7 @@
 
 - ### Frontend Developer at KOÇSİSTEM (May 2021 - August 2021)
 <a href="https://www.kocsistem.com.tr/" target="_blank">
-<img alt="kocsistem-logo" width="240" margin-top="120px" height="70" src="https://upload.wikimedia.org/wikipedia/tr/archive/2/28/20200704155435%21KocSistem_logo.png">
+<img alt="kocsistem-logo" width="240" margin-top="20" height="70" src="https://upload.wikimedia.org/wikipedia/tr/archive/2/28/20200704155435%21KocSistem_logo.png">
 </a>
 
 - ### You can contact me on : 
