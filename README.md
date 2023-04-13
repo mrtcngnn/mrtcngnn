@@ -4,6 +4,8 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrtcngnn&theme=radical&show_icons=true"/>  
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrtcngnn&theme=radical&layout=compact"/>
 </a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrtcngnn&theme=radical&show_icons=true)
+
   
 ### 4-th year Computer Science student at TOBB ETU / Candidate Full Stack Web Developer at HAVELSAN
 
