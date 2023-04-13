@@ -2,7 +2,7 @@
 
 <a href="https://github.com/mrtcngnn" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtcngnn&theme=radical&show_icons=true"/> 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtcngnn&theme=radical&layout=compact)
+  <img height="180em" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtcngnn&theme=radical&layout=compact)"/>
 </a>
 
 
