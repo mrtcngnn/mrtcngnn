@@ -34,6 +34,6 @@
 <img alt="kocsistem-logo" width="240" margin-top="20" height="70" src="https://upload.wikimedia.org/wikipedia/tr/archive/2/28/20200704155435%21KocSistem_logo.png">
 </a>
 
-- ### You can contact me on : 
-<img alt="gmail-logo" src="https://www.svgrepo.com/show/243092/gmail.svg" width="20" height="20">  G-Mail: [mrtcngonen@gmail.com](mailto:mrtcngonen@gmail.com)<br/>
-<img alt="linkedin-logo" src="https://www.svgrepo.com/show/157006/linkedin.svg" width="20" height="20">  LinkedIn: [Mert Can Gönen](https://www.linkedin.com/in/mertcangonen)<br/>
+### You can contact me on : 
+- <img alt="gmail-logo" src="https://www.svgrepo.com/show/243092/gmail.svg" width="20" height="20">  G-Mail: [mrtcngonen@gmail.com](mailto:mrtcngonen@gmail.com)<br/>
+- <img alt="linkedin-logo" src="https://www.svgrepo.com/show/157006/linkedin.svg" width="20" height="20">  LinkedIn: [Mert Can Gönen](https://www.linkedin.com/in/mertcangonen)<br/>
