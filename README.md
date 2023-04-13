@@ -4,7 +4,7 @@
   
 ### 4-th year Computer Science student at TOBB ETU / Candidate Full Stack Web Developer at HAVELSAN
 
-- ### Languages and Technologies 💻:
+### Languages and Technologies 💻:
 <p align="left"> 
 
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
@@ -24,16 +24,16 @@
 
 ### EXPERIENCES 🎓:
 
-### Web Developer at HAVELSAN (January 2022 - Now)
+- ### Web Developer at HAVELSAN (January 2022 - Now)
 <a href="https://www.havelsan.com.tr/" target="_blank">
 <img alt="havelsan-logo" width="210" height="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Havelsan_logo.svg/450px-Havelsan_logo.svg.png">
 </a>
 
-### Frontend Developer at KOÇSİSTEM (May 2021 - August 2021)
+- ### Frontend Developer at KOÇSİSTEM (May 2021 - August 2021)
 <a href="https://www.kocsistem.com.tr/" target="_blank">
 <img alt="kocsistem-logo" width="240" height="70" src="https://upload.wikimedia.org/wikipedia/tr/archive/2/28/20200704155435%21KocSistem_logo.png">
 </a>
 
-### You can contact me on : 
+- ### You can contact me on : 
 <img alt="gmail-logo" src="https://www.svgrepo.com/show/243092/gmail.svg" width="20" height="20">  G-Mail: [mrtcngonen@gmail.com](mailto:mrtcngonen@gmail.com)<br/>
 <img alt="linkedin-logo" src="https://www.svgrepo.com/show/157006/linkedin.svg" width="20" height="20">  LinkedIn: [Mert Can Gönen](https://www.linkedin.com/in/mertcangonen)<br/>
