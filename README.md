@@ -1,4 +1,4 @@
-# <Mert - Web Developer/>
+# <Mert - Full Stack Web Developer/>
 
 <a href="https://github.com/mrtcngnn" align="center">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrtcngnn&theme=radical&show_icons=true"/>  
