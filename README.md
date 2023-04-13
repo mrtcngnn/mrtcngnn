@@ -7,6 +7,18 @@
 ### Languages and Technologies 💻:
 <p align="left"> 
 
+<div class="row">
+  <div class="col-4"> 
+    - <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
+  </div>
+  <div class="col-4"> 
+    - <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
+  </div>
+  <div class="col-4"> 
+    - <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
+  </div>
+  
+</div>
 - <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
 - <a href="https://devdocs.io/c/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-line.svg" alt="c" width="40" height="40"></a> 
 - <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="40" height="40"></a>
