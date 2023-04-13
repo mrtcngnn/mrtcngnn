@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrtcngnn&theme=radical&layout=compact"/>
 </a>
   
-### I'm 4-th year Computer Engineering student at TOBB ETU. Currently, I'm also doing internship as Junior Web Developer at HAVELSAN.
+###4-th year Computer Engineering student at TOBB ETU / Candidate Full Stack Web Developer at HAVELSAN.
 
 ### Languages and Technologies 💻:
 <p align="left"> 
