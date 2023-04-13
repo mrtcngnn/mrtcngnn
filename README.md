@@ -25,7 +25,7 @@
 
 ### EXPERIENCES 🎓:
 
-- #### Web Developer at HAVELSAN (January 2022 - Now)
+- #### Full Stack Web Developer at HAVELSAN (January 2022 - Now)
 <a href="https://www.havelsan.com.tr/" target="_blank">
 <img alt="havelsan-logo" width="210" height="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Havelsan_logo.svg/450px-Havelsan_logo.svg.png">
 </a>
