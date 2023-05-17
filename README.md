@@ -2,7 +2,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=mrtcngnn&theme=radical&show_icons=true"/>
   
-### 4-th year Computer Science student at TOBB ETU / Candidate Full Stack Web Developer at HAVELSAN
+### Candidate Web Developer at HAVELSAN
 
 ### Languages and Technologies 💻:
 <p align="left"> 
