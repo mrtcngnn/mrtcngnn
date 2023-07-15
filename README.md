@@ -1,40 +1,15 @@
-# <Mert - Full Stack Web Developer/>
+# 💫 About Me:
+Full Stack Web Developer<br>Havelsan A.Ş.<br>Currently working on;<br>-Java<br>-Spring-Boot<br>-Hibernate<br>-React<br>-Docker<br>-Kafka<br>-Kubernetes<br>-Microservice architecture
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mrtcngnn&theme=radical&show_icons=true"/>
-  
-### Candidate Web Developer at HAVELSAN
 
-### Languages and Technologies 💻:
-<p align="left"> 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mertcangonen) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mrtcngnn) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mrtcngnn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrtcngnn) 
 
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-<a href="https://devdocs.io/c/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-line.svg" alt="c" width="40" height="40"></a> 
-<a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c++" width="40" height="40"></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="40" height="40"></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="spring" width="70" height="40"></a>
-<a href="https://hibernate.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate" width="70" height="40"></a>
-<a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="bash" width="40" height="40"></a> 
-<a href="https://git-scm.com/doc" target="_blank"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"></a> 
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mrtcngnn&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrtcngnn&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtcngnn&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### EXPERIENCES 🎓:
-
-- #### Full Stack Web Developer at HAVELSAN (January 2022 - Now)
-<a href="https://www.havelsan.com.tr/" target="_blank">
-<img alt="havelsan-logo" width="210" height="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Havelsan_logo.svg/450px-Havelsan_logo.svg.png">
-</a>
-
-- #### Frontend Developer at KOÇSİSTEM (May 2021 - August 2021)
-<a href="https://www.kocsistem.com.tr/" target="_blank">
-<img alt="kocsistem-logo" width="240" margin-top="20" height="70" src="https://upload.wikimedia.org/wikipedia/tr/archive/2/28/20200704155435%21KocSistem_logo.png">
-</a>
-
-### You can contact me on : 
-- <img alt="gmail-logo" src="https://www.svgrepo.com/show/243092/gmail.svg" width="20" height="20">  G-Mail: [mrtcngonen@gmail.com](mailto:mrtcngonen@gmail.com)<br/>
-- <img alt="linkedin-logo" src="https://www.svgrepo.com/show/157006/linkedin.svg" width="20" height="20">  LinkedIn: [Mert Can Gönen](https://www.linkedin.com/in/mertcangonen)<br/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
