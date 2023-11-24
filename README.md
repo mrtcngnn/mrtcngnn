@@ -1,6 +1,6 @@
 # <Mert - Full Stack Web Developer/>
 <p align="start">
-  Hi, this is Mert. Currently working on Java, Spring Boot, React and Typesript for web development.
+## Hi, this is Mert. Currently working on Java, Spring Boot, React and Typesript for web development.
 </p>
 
 ## 💻 Tech Stack
