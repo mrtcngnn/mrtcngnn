@@ -1,4 +1,7 @@
 # <Mert - Full Stack Web Developer/>
+<div text-align="center">
+  Hi, this is Mert. Currently working on Java, Spring Boot, React and Typesript for web development.
+</div>
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
