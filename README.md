@@ -2,8 +2,10 @@
 <p align="start">
   <h3>
     Hi, this is Mert. Currently working on Java, Spring Boot, React and Typesript for full stack web development.
-  </h3>  
+  </h3>
 </p>
+
+- 📄 [CV](https://flowcv.com/resume/d3bk18qdbpjn).
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
