@@ -5,7 +5,7 @@
   </h3>
 </p>
 
-- 📄 [CV](https://flowcv.com/resume/d3bk18qdbpjn).
+- 🖇️ My Resume [https://flowcv.com/resume/d3bk18qdbpjn](https://flowcv.com/resume/d3bk18qdbpjn).
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
